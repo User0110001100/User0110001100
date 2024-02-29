@@ -1,0 +1,60 @@
+{
+    "titleNameMap": {
+        "educationList": "教育背景",
+        "workExpList": "工作经历",
+        "projectList": "项目经验",
+        "skillList": "个人技能",
+        "awardList": "更多信息",
+        "workList": "个人作品",
+        "aboutme": "个人评价"
+    },
+    "avatar": {
+        "src": "https://avatars.githubusercontent.com/u/15646325?v=4",
+        "hidden": false
+    },
+    "profile": {
+        "name": "徐平",
+        "email": "haibarapink@gmail.com",
+        "mobile": "15309667785",
+        "github": "https://github.com/haibarapink",
+        "zhihu": "",
+        "workExpYear": ""
+    },
+    "educationList": [
+        {
+            "edu_time": [
+                "2019.09.01",
+                "2023.06.30"
+            ],
+            "school": "安徽农业大学",
+            "major": "网络工程",
+            "academic_degree": "本科",
+            "dataIndex": 0
+        }
+    ],
+    "awardList": [
+        {
+            "award_time": "2022",
+            "award_info": "2022 第三届OceanBase数据库大赛前五十(19名)",
+            "dataIndex": 0
+        }
+    ],
+    "workExpList": [],
+    "skillList": [],
+    "projectList": [],
+    "workList": [
+        {
+            "work_name": "Kangaroo",
+            "work_desc": "用golang实现的关系数据库，支持Join, Group by, Order by, Projection, Limit等功能，基于Force No-Steal 实现事务的功能",
+            "visit_link": "https://github.com/Haibarapink/Kangaroo",
+            "dataIndex": 0
+        }
+    ],
+    "aboutme": {
+        "aboutme_desc": ""
+    },
+    "theme": {
+        "color": "#2f5785",
+        "tagColor": "#8bc34a"
+    }
+}
