@@ -44,9 +44,25 @@
     "projectList": [],
     "workList": [
         {
-            "work_name": "Kangaroo",
+            "work_name": "Kangaroo 2024.1.20~2024.2.19",
             "work_desc": "用golang实现的关系数据库，支持Join, Group by, Order by, Projection, Limit等功能，基于Force No-Steal 实现事务的功能",
             "visit_link": "https://github.com/Haibarapink/Kangaroo",
+            "dataIndex": 0
+        },
+        {
+            "work_name": "Tadis 2023.3.2~2023.3.17",
+            "work_desc": "毕业设计， 用c++实现的简单的关系数据库，支持Insert, Update, Delete 等简单功能的数据库，用到BufferPool, 自顶向下的语法解析 等技术，功能是Kangaroo的子集",
+            "visit_link": "https://github.com/Haibarapink/tadis",
+            "dataIndex": 0
+        },
+        {
+            "work_name": "miniob",
+            "work_desc": "比赛项目, 实现了Order By, Update-Select, Nullable等功能。",
+            "dataIndex": 0
+        },
+        {
+            "work_name": "OceanBase-Direct-Path-Load function",
+            "work_desc": "比赛项目, 旁路侧导，将比赛样例代码的单线程修改为多线程。",
             "dataIndex": 0
         }
     ],
